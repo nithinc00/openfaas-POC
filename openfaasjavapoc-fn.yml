@@ -1,0 +1,10 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  openfaasjavapoc-fn:
+    lang: java11
+    handler: ./openfaasjavapoc-fn
+    image: sushovan221/openfaasjavapoc-fn:latest
+
