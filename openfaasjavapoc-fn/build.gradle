@@ -16,10 +16,6 @@ dependencies {
 
     compile 'com.openfaas:model:0.1.1'
     compile 'com.openfaas:entrypoint:0.1.0'
-    // compile project(':model')
-
-    // implementation 'com.squareup.okhttp3:okhttp:3.10.0'
-    // implementation 'com.squareup.okio:okio:1.14.1'
 
 }
 

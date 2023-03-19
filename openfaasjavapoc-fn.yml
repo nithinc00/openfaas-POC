@@ -6,5 +6,5 @@ functions:
   openfaasjavapoc-fn:
     lang: java11
     handler: ./openfaasjavapoc-fn
-    image: sushovan221/openfaasjavapoc-fn:latest
+    image: sushovan221/openfaasjavapoc-fn:1.7.7
 
