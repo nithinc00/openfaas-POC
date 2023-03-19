@@ -100,3 +100,6 @@ command : `faas-cli up -f ./openfaasjavapoc-fn.yml`
 
 ![image](https://user-images.githubusercontent.com/65301458/226160280-b0d44a5b-bc1b-4bf5-9ece-192453aeeb23.png)
 
+
+
+## Docker Image: sushovan221/openfaasjavapoc-fn:latest
